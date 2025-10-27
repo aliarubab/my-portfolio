@@ -1,6 +1,6 @@
 # Portfolio Website
 
-A personal portfolio website built using *HTML* and *CSS*.  
+A personal portfolio website built using HTML and CSS.  
 It showcases my skills, projects, and contact details in a clean and responsive layout.
 
 ## Features
