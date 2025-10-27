@@ -13,4 +13,6 @@ It showcases my skills, projects, and contact details in a clean and responsive 
 - CSS3  
 
 ## Live Demo
-(Will add link after hosting)
+Check out the portfolio
+here : https://aliarubab.github.io/my-portfolio/
+
